@@ -3,5 +3,6 @@ void main(){
     int a = 10;
     int b = 20;
 
-    System.out.println(30);
+    int result = a + b;
+    System.out.println(result);
 }
