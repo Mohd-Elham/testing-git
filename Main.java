@@ -1,3 +1,7 @@
 void main(){
-    System.out.println(25);
+
+    int a = 10;
+    int b = 20;
+
+    System.out.println(30);
 }
